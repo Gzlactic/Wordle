@@ -29,7 +29,7 @@ adult
 affix
 afire
 afoot
-afoul
+afoula
 after
 again
 agape
